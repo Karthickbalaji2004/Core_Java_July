@@ -10,6 +10,9 @@ public class variables {
         System.out.println("Rat value is:"+rat);
         System.out.println("the number value is:"+num);
         System.out.println("Name is:"+Name);
+
+
+
     }
     public static void main(String[] args) {
         int age = 25; //global varaible
